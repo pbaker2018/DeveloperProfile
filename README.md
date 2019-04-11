@@ -1,7 +1,7 @@
 # DeveloperProfile
 
 
-This is a simple one-page Android App that helped me with my understanding of using 'Constraints' in Android Studio.
+This is a simple one-page non-functional Android App that helped me with my understanding of using 'Constraints' in Android Studio.
 
 The App uses Kotlin to 'round the corners' of one of the logos.
 
@@ -18,5 +18,5 @@ https://youtu.be/koSDp89MBRA
 
 tablet view:
 
-https://youtu.be/
+https://youtu.be/d2ferGdWy_w
 
