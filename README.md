@@ -14,7 +14,7 @@ Copy and paste the following two youtube links to see my app in action.
 
 phone view:
 
-https://youtu.be/
+https://youtu.be/koSDp89MBRA
 
 tablet view:
 
